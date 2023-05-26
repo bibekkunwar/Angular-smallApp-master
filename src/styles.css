@@ -125,10 +125,8 @@ body {
 }
 
 
-.img-fluid{
-  max-width: 100%;
-  height: auto;
-}
+
+
 
 a {
   font-size: inherit;
@@ -393,6 +391,7 @@ button:focus,
   padding-right: 20px;
   line-height: 45px;
 }
+
 @media (max-width: 992px) {
   .main-nav .navbar-nav .nav-item .nav-link {
     line-height: 25px;
